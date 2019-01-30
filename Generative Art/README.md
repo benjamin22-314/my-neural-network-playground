@@ -14,6 +14,6 @@ View `code.py` for the code used the create the gifs below or you can run it on 
 
 Another project I worked on aimed to create art based roughly on how the planets interact, with the ability to play around with different parameters such as gravity. You can view the jupyter notebook or check out the [google colab](https://colab.research.google.com/drive/1Ldw9tUKjeNcG5ZMDGSOZx9l_C6msxoA4) 
 
-![](planets_1548301506.568124.gif)
+![alt text](planet gifs/planets_1548301506.568124.gif)
 
 <br>
